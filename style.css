@@ -1,0 +1,10 @@
+.gradient {
+    background: linear-gradient(180deg, #00A1DE 0%, #daae51 50%,#20603D 100%);
+  }
+
+.foto{
+
+    transform: rotate(5deg);
+    
+}
+
